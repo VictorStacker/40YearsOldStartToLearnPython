@@ -22,3 +22,7 @@
   完成日期：
 - 学习使用Python制作小程序，供教学使用
   完成日期：
+
+
+
+[Git 学习笔记](https://github.com/VictorStacker/40YearsOldStartToLearnPython.git)
