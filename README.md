@@ -25,4 +25,4 @@
 
 
 
-[Git 学习笔记](https://github.com/VictorStacker/40YearsOldStartToLearnPython.git)
+[Git 学习笔记](https://github.com/VictorStacker/40YearsOldStartToLearnPython/blob/master/Git%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)

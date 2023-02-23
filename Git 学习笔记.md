@@ -166,7 +166,10 @@
 
 - 向远程仓库推送代码
   ```
-  git push -u origin
+  git push (简易推送)
+  git push <remote> <branch> (推送某个分支至某远程仓库)
+  
+  #第一次推送会需要登录github帐号
   ```
 
 
@@ -174,6 +177,18 @@
 - 复制远程仓库代码至新电脑
   ``` 
   git clone 远程仓库地址 
+  ```
+
+
+
+
+- 查看已关联远程仓库
+  ```
+  git remote
+  
+  
+  git remote -v
+  # 显示需要查看远程仓库使用的 git 保存的简写与其对应的 URL
   ```
 
   
